@@ -1,5 +1,7 @@
 # Save Favourites in Local Storage
 
+A simple demo app which persists data using client's local storage. Try entering some items and reloading the page. The items should still be available.
+
 Live version: https://save-favourites-local-storage.herokuapp.com
 
 <img src="./src/graphics/screencast.gif" width="275px" height="auto">
